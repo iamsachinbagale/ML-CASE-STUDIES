@@ -1,1 +1,1 @@
-# ML-CASE-STUDIES
+This Repo contains the Real-Time ML Case Studies
