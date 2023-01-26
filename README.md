@@ -1,2 +1,1 @@
-![Machine+Learning+Canvas+template+v1 0](https://user-images.githubusercontent.com/100204062/214843230-599e86e2-5d86-41c1-80f2-fc76485cd277.jpg)
-
+![Case-Study-Format](https://user-images.githubusercontent.com/100204062/214843860-403c6208-5edf-44e2-af8c-0637f9e2a4f4.jpg)
